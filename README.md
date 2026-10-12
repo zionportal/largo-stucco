@@ -1,6 +1,6 @@
 # Largo Stucco website demo
 
-An isolated, responsive website concept built with Next.js App Router, TypeScript, React, and Tailwind CSS. The warm stucco design uses original CSS illustrations and a simple project-enquiry path.
+An isolated, responsive website concept built with Next.js App Router, TypeScript, React, and Tailwind CSS. The warm stucco design uses locally hosted licensed stock photography and a simple project-enquiry path.
 
 ## Commands
 
@@ -12,7 +12,7 @@ No local preview server was started. Development and start scripts bind to local
 
 ## Review before publication
 
-Only the business names supplied through repository URLs are confirmed. Service categories are proposals and are explicitly disclosed on the page. Original CSS illustrations are concepts, not project photographs. No invented testimonials, licenses, metrics, pricing, phone numbers, addresses, offers or customer claims.
+Only the business names supplied through repository URLs are confirmed. Service categories are proposals and are explicitly disclosed on the page. Stock photos are inspiration, not photographs of completed client work. See IMAGE_CREDITS.md for sources and license. No invented testimonials, licenses, metrics, pricing, phone numbers, addresses, offers or customer claims.
 
 The form uses browser validation and local React state. It sends and stores nothing. No analytics, contact integration or external image/font services. Confirm approved services, imagery and contact details before adding a real submission integration or publishing.
 
@@ -35,3 +35,9 @@ The dependency manifests matched Tampa's exactly, allowing reuse of its generate
 Browser interaction and visual checks remain pending. Business services, availability, imagery, and contact details still require confirmation. No local preview server, real enquiry submission, or deployment was performed. Git delivery was subsequently authorized separately.
 
 The production build added standard allowJs and development-type include settings while retaining strict TypeScript. Framework-generated next-env.d.ts is ignored as recommended by Next.js: https://nextjs.org/docs/app/api-reference/config/typescript .
+
+## Photography update — 2026-10-12
+
+Hero and all three service illustrations replaced with licensed stock photography. Sources, license, optimization, and usage limits are documented in [IMAGE_CREDITS.md](IMAGE_CREDITS.md). Existing marketing copy, navigation, FAQs, and local-only enquiry behavior are preserved.
+
+Photography update: lint, strict typecheck, and production build passed. Original photos were inspected; live browser checks remain pending.
